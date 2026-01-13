@@ -52,6 +52,9 @@ As per your **Phase 5 Blocks**, understanding this lifecycle allows you to autom
 
 In your **Phase 4 Framework**, you learned to generate test data. In **Phase 5**, you should treat your **Token** as dynamic data.
 
+![Token Lifecycle](/assets/token-lifecycle.png)
+
+
 > **Never** hardcode a token. **Always** write a method that fetches a fresh one before the test suite starts. This ensures your **CI/CD pipeline** (Phase 6) never fails due to an expired session.
 
 ***
