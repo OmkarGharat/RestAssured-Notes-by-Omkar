@@ -80,4 +80,4 @@ Since Backend API tests cannot click "Allow" buttons in a browser, we often use 
 | **Client Secret** | App (Permanent)    | Proves the **Framework's Identity** to Google.   |
 | **Access Token**  | App (Temporary)    | The final "Hand Stamp" used for Business APIs. 3 |
 
-![OAuth 2.0 Authorization Code Flow (User-Based)](assets/OAuth 2.0 Authorization Code Flow (User-Based).png)
+![OAuth 2.0 Authorization Code Flow (User-Based)](assets/oauth2-auth-code-flow-user-based.png)
