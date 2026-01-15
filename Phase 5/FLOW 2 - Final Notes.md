@@ -8,7 +8,7 @@
 
 Unlike **Client Credentials** (Machine-to-Machine), this flow is for **Human Users**. It allows a "Third-Party App" to access your data without you ever sharing your personal Google/GitHub password with that app.
 
-![](assets/oauth2-auth-code-flow-user-based.png)
+![OAuth 2.0 Authorization Code Flow (User-Based)](../assets/oauth2-auth-code-flow-user-based.png)
 
 ### 🔁 The Detailed FLOW — Step-by-Step
 
